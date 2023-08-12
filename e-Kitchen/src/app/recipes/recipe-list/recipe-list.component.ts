@@ -10,7 +10,7 @@ export class RecipeListComponent {
   recipes: Recipe[] = [ new Recipe(
     'A Test Recipe', 
     'This is simply a test', 
-    'https://www.disneyfoodblog.com/wp-content/uploads/2013/10/MacAndCheeseTop.jpg') ];
+    'https://www.healthyseasonalrecipes.com/wp-content/uploads/2018/08/fi-chickpea-salad-006-165x165.jpg') ];
 
   constructor() {  }
 
